@@ -15,10 +15,10 @@ jimport( 'joomla.application.component.controller' );
 //require_once( JPATH_COMPONENT.DS.'helpers'.DS.'helper.php' );
 
 /**
- * statepages Controller
+ * Publications Controller
  *
  * @package Joomla
- * @subpackage statepages
+ * @subpackage publications
  */
 class PublicationsControllerDocuments extends JController
 {
